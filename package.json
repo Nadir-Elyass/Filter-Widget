@@ -1,0 +1,23 @@
+{
+  "name": "Filter-Widget",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nadir-Elyass/Filter-Widget.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nadir-Elyass/Filter-Widget/issues"
+  },
+  "homepage": "https://github.com/Nadir-Elyass/Filter-Widget#readme",
+  "dependencies": {
+    "@types/arcgis-js-api": "^4.8.0"
+  }
+}
